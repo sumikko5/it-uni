@@ -109,3 +109,23 @@ h2{
 header{
 	font-weight: bolder;
 }
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+}
